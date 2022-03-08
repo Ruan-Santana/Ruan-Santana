@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil meu Perfil 👋
 
-😁 Olá me chamo: Ruan Gabriel
-📚 Estou me aprofundando em HTML, CSS e JS
+**😁 Olá me chamo: Ruan Gabriel** <br>
+**📚 Estou me aprofundando em HTML, CSS e JS**
 
  <div>
   <a href="https://github.com/Ruan-Santana">
