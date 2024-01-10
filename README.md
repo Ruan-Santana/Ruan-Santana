@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ruan Gabriel 👋
 
  <div>
- ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-Santana&show_icons=true&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Santana&show_icons=true&theme=dracula"/>
    <!--<img src="https://github-readme-stats.vercel.app/api?username=Ruan-Santana&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=#0eaddb;&show_icons=true&include_all_commits=true&count_private=true" style="max-width: 100%;">-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Santana&layout=compact&langs_count=6&theme=dracula"/>
 </div>
@@ -15,5 +15,5 @@
   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-“Sucesso é o acúmulo de pequenos esforços, repetidos dia e noite.”
+"Sucesso é o acúmulo de pequenos esforços, repetidos dia e noite."
 Robert Cullier 
